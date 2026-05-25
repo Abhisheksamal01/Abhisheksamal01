@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Building a Python Battleship Game Engine with clean architecture and CLI interface<br>Open source Python projects, game development, and backend systems<br>Advanced algorithms, system design, and building scalable applications<br>Data Structures & Algorithms, Object-Oriented Design, and exploring AI/ML fundamentals<br>Python, CLI tools, game logic, and anything related to computer science fundamentals<br>I built a fully functional Battleship game engine from scratch — no libraries, just pure Python and logic
 
 
